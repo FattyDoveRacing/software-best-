@@ -1,3 +1,2 @@
 joe = input("wright something: ")
-print("Hello " + joe)
-print("my name is dad")
+print("Hello " + joe + " my name is dad")
